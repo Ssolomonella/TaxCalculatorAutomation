@@ -25,6 +25,7 @@ public class SauceLabsController implements WebDriverController{
         this.driver=driver;
     }
 
+
     @Override
     public void setupController() {
         ChromeOptions browserOptions = new ChromeOptions();
