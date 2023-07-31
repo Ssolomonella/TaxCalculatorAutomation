@@ -19,16 +19,29 @@
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
       - [Test Artifacts](#test-artifacts)
+- [AGILE METRICS](#agilescrum-metrics)
+- [DEFECT MANAGEMENT](#defect-management)
+- [TEST EXIT REPORT](#test-exit-report)
 # PROJECT DESCRIPTION
+
+---
+The project involved the creation of a comprehensive Tax Calculator App designed to automate the calculation of income tax based on user input and subsequently determine the tax bracket applicable to the user. The development process was broken down into several phases, each with its own specific testing procedures.
 
 # Test Approach
 
+---
+
 ## Test Levels
 ### Unit Testing
+In the initial phase, we worked on the unit testing. Each function or method built to perform specific calculations was thoroughly tested in isolation. For example, a function designed to calculate the tax amount based on the tax rate and taxable income was unit tested to ensure it provided accurate results for different combinations of inputs.
 ### Integration Testing
+During the integration testing phase, the app's various components, like the income input module, tax bracket determination module, and tax calculation module, were tested together to ensure they interacted properly. We checked for accurate data flow between these modules and verified the correct results were produced when they were combined.
 ### System Testing
+Following integration testing, system testing was performed. This phase involved testing the entire system in an environment that closely mimicked the real-world scenario. We ensured the app functioned as intended, verifying the calculations of income tax, the correct determination of the tax bracket, and overall application performance.
 ### Acceptance Testing
+Finally, we conducted acceptance testing to confirm the app met user requirements and provided a satisfactory user experience. We simulated a user's interaction with the app, inputting income details, and checking the output, the tax calculation, and tax bracket determination.
 
+Each testing phase was instrumental in catching defects early and ensuring the integrity of the app. My role was to lead and participate in these testing activities, utilizing my software testing skills to ensure the app was reliable, robust, and user-friendly.
 ## Test Types
 ### Black Box
 #### Functional Testing
@@ -37,6 +50,8 @@
 ### White Box
 
 # Test Management
+
+---
 ## Jira
 ### Zephyr Scale
 
@@ -56,13 +71,19 @@
 
 
 # Agile/Scrum Metrics
+
+---
 ![Burndown Chart](/Assets/IH_Dynamic_Status_Update_2023-07-24_21_33.png)
 ![Burndown Chart](/Assets/IH_Dynamic_Status_Update_2023-07-24_21_34.png)
 
 # Defect Management
+
+---
 ![Jira Report](/Assets/Jira%20Defect.png)
 ![Postman Screenshot](/Assets/Postman%20defect.png)
 # Test Exit Report
+
+---
 ## Tax Calculator API UI- Test Progress Report
 
 Test Execution Summary:
