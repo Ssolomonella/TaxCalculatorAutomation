@@ -45,7 +45,16 @@ Each testing phase was instrumental in catching defects early and ensuring the i
 ## Test Types
 ### Black Box
 #### Functional Testing
+![Tax Calculator API Lower and Upper Boundary Testing](/Assets/Tax%20Calc%20lower%20and%20upper%20boundaries.png)
+![Tax Calculator API Within Boundary Testing](/Assets/Tax%20Calc%20within.png)
+![Tax Calculator API GET Income Bracket](/Assets/Tax%20Calc%20GET%20brackets.png)
+
 #### Non-Functional Testing
+![Tax Calculator Performance Testing](/Assets/Tax%20Calc%20Performance.png)
+![Tax Calculator Accessibility Testing](/Assets/Tax%20Calc%20Acc.png)
+![Tax Calculator Accessibility Testing](/Assets/Tax%20Calc%20Acc2.png)
+![Tax Calculator Accessibility Testing](/Assets/Tax%20Calc%20Acc3.png)
+
 
 ### White Box
 
